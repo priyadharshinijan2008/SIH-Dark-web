@@ -1,0 +1,7 @@
+id,sourceNodeId,sourceNodeType,targetNodeId,targetNodeType,relationshipType,confidenceScore,firstObserved,lastObserved,evidenceSummary
+REL-DEMO-001,ACTOR-DEMO-001,Actor,HDL-001,Handle,USES,100,2025-02-14,2026-08-21,"Primary observed handle across underground forums."
+REL-DEMO-002,ACTOR-DEMO-001,Actor,HDL-002,Handle,USES,94,2025-07-11,2026-08-19,"Secondary vendor persona on Synthetic Market Omega."
+REL-DEMO-004,ACTOR-DEMO-001,Actor,PGP-DEMO-001,PGPKey,USES,98,2025-01-10,2026-08-21,"Key fingerprint 9B42 81E3 present in forum profile signature."
+REL-DEMO-005,ACTOR-DEMO-001,Actor,WALLET-DEMO-001,Wallet,USES,92,2025-02-16,2026-08-20,"Primary Bitcoin settlement wallet provided for deals."
+REL-DEMO-011,ACTOR-DEMO-001,Actor,ACTOR-DEMO-002,Actor,CONNECTED_TO,68,2025-03-04,2026-08-14,"Shared /24 hosting subnet and identical custom hardened nginx banner."
+REL-DEMO-015,ACTOR-DEMO-001,Actor,ACTOR-DEMO-003,Actor,LINKED_TO,79,2025-02-01,2026-08-25,"Strong financial cluster link: direct transaction hops to mixer pool."

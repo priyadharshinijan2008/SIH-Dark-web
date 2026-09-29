@@ -1,0 +1,5 @@
+id,alias,primaryHandle,category,firstSeen,lastSeen,status,confidenceScore,summary
+ACTOR-DEMO-001,ShadowX,ShadowX,Cybercrime,2025-02-14,2026-08-21,Synthetic Demo Profile,84,"High-volume underground broker selling specialized corporate access keys."
+ACTOR-DEMO-002,NightCipher,NightCipher,Data Extortion,2025-03-01,2026-08-14,Synthetic Demo Profile,68,"Extortion affiliate specializing in exfiltrated healthcare and financial CRM archives."
+ACTOR-DEMO-003,GhostByte,GhostByte,Financial Fraud,2025-01-20,2026-09-02,Synthetic Demo Profile,79,"Laundering operative coordinating cryptocurrency tumbling and multi-hop token mixers."
+ACTOR-DEMO-004,DarkOrbit,DarkOrbit,Malware Distribution,2025-04-10,2026-07-30,Synthetic Demo Profile,65,"Distributor of infostealer payloads via deceptive SEO poisoning."

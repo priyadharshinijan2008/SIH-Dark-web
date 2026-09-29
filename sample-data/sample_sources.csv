@@ -1,0 +1,6 @@
+id,name,type,reliability,observationsCount,firstIngested,lastIngested
+SOURCE-DEMO-001,"Synthetic Forum Alpha","Synthetic Forum","A (High)",84,2025-01-10,2026-09-25
+SOURCE-DEMO-002,"Synthetic Market Omega","Synthetic Marketplace","A (High)",68,2025-01-15,2026-09-24
+SOURCE-DEMO-007,"Blockchain Cluster Synthetic Index","Synthetic Blockchain Cluster","A (High)",56,2025-01-05,2026-09-26
+SOURCE-DEMO-008,"ThreatInfra Synthetic Telemetry","Synthetic Intelligence Feed","A (High)",64,2025-01-08,2026-09-25
+SOURCE-DEMO-010,"Public Threat Report - CISA Alert 2025-Demo","Public Threat Report","A (High)",18,2025-04-14,2025-11-20

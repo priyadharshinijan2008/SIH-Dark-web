@@ -1,0 +1,5 @@
+id,actorId,entityType,entityValue,sourceId,timestamp,eventDescription,confidenceScore
+OBS-001,ACTOR-DEMO-001,Actor,ShadowX,SOURCE-DEMO-001,2025-02-14T09:20:00Z,"Observed registered member introduction on Synthetic Forum Alpha.",95
+OBS-002,ACTOR-DEMO-001,PGPKey,PGP-DEMO-001,SOURCE-DEMO-001,2025-03-02T14:15:00Z,"PGP public key 0x8A7C93F14E2B5A09 signed message captured.",99
+OBS-003,ACTOR-DEMO-001,Wallet,WALLET-DEMO-001,SOURCE-DEMO-007,2025-04-19T18:40:00Z,"Incoming payment of 3.42 BTC to address bc1q9v8t7z...",92
+OBS-004,ACTOR-DEMO-001,Handle,Shadow_X01,SOURCE-DEMO-002,2025-07-11T11:05:00Z,"Vendor listing on Synthetic Market Omega published under Shadow_X01.",96

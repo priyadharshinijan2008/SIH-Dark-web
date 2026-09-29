@@ -1,0 +1,6 @@
+{
+  "name": "Dark Web Threat Actor De-anonymization",
+  "description": "AI-assisted cybersecurity threat-intelligence platform for correlating anonymous digital personas, infrastructure, and behavioral indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
